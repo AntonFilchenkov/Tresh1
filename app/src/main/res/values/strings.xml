@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IT School Samsung</string>
+    <string name="welcome_message">Welcome to IT School Samsung</string>
+    <string name="email_subject">Admission to IT School Samsung</string>
+    <string name="open_website">Open Website</string>
+</resources>

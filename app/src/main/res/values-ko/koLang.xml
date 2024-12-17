@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">삼성 IT 학교</string>
+    <string name="welcome_message">삼성 IT 학교에 오신 것을 환영합니다</string>
+    <string name="email_subject">삼성 IT 학교 입학</string>
+    <string name="open_website">웹사이트 열기</string>
+</resources>
